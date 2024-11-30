@@ -25,6 +25,7 @@ Check out the live site here: [Travel Site](https://hydraharish123.github.io/Tra
 ## 📂 **Project Structure**
 ```plaintext
 Travel-Site/
+├── img              # Images Folder
 ├── index.html       # Main HTML file
 ├── style.css        # CSS file for styling
 └── README.md        # Project documentation
