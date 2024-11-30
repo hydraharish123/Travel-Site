@@ -22,11 +22,6 @@ Check out the live site here: [Travel Site](https://hydraharish123.github.io/Tra
 
 ---
 
-## 📷 **Screenshots**
-![Travel Site Screenshot](https://via.placeholder.com/800x400?text=Travel+Site+Screenshot)
-
----
-
 ## 📂 **Project Structure**
 ```plaintext
 Travel-Site/
